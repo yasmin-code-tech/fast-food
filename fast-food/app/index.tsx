@@ -7,7 +7,7 @@ export default function Index() {
      className='flex-1 items-center justify-center'
     >
       <Text className='text-lg'>Edit app/index.tsx to edit this screen.</Text>
-      <Text className='text-2xl font-bold'> Hello world!</Text>
+      <Text className='text-2xl font-bold text-primary font-quicksand-bold'> Hello world!</Text>
     </View>
   );
 }
